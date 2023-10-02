@@ -33,19 +33,3 @@
     <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=vatsalsinghkv&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="vatsalsinghkv" />
 
 <h2></h2>
-
-<!-- Activity Graph -->
-<p align="center">
-    <img src="https://github-readme-activity-graph-kv.vercel.app/graph?username=vatsalsinghkv&theme=react-dark&color=38bdf8&line=38bdf8&hide_border=true&hide_title=false&area=true" width="100%" alt="activity graph">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalsinghkv&theme=tokyonight&hide_border=true"  width="64%" alt="vatsalsinghkv profile-details"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vatsalsinghkv&theme=tokyonight"  width="31%" alt="vatsalsinghkv github stats"/>
-</p>
-
-<!-- <p align="center">
-<img src="https://profile-counter.glitch.me/{vatsalsinghkv}/count.svg" alt="Vatsal :: Visitor's Count" />
-</p> -->
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vatsalsinghkv&label=Profile%20views&color=0ea5e9&style=flat" alt="vataslsinghkv" /> </p>
