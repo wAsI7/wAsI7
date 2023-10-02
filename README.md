@@ -19,17 +19,4 @@
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,figma,firebase,ai,ps" alt="tools" />
-</p>  
-    
-<h2></h2>
-
-<p>
-  <img src="https://github-readme-stats-kv.vercel.app/api?username=vatsalsinghkv&theme=github_dark&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="Vatsal's github-readme-stats"/>
-  <img src="https://github-readme-streak-stats-kv.vercel.app?user=vatsalsinghkv&theme=tokyonight_duo&hide_border=true" width="48%" alt="Vatsal's github-readme-streak-stats"/>
 </p>
-
-<p>
-  <img width="58%" align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=vatsalsinghkv&theme=github_dark&hide_border=true&layout=compact&langs_count=6&v=2" alt="Vatsal's wakatime stats"/>
-    <img width="38%" src="https://github-readme-stats-kv.vercel.app/api/top-langs?username=vatsalsinghkv&show_icons=true&theme=github_dark&locale=en&layout=compact&hide_border=true" alt="vatsalsinghkv" />
-
-<h2></h2>
