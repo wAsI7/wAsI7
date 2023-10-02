@@ -12,17 +12,15 @@
 
 <h2>About Me</h2>
   
-- 👩🏻‍💻 I am a final year Computer Science Undergraduate at **[Shaheed Sukhdev College of Business Studeis, University of Delhi](https://sscbs.du.ac.in/)**
+- 👩🏻‍💻 With 5+ years of experience as a Senior Web developer, I create interactive websites using Elementor, JavaScript, and React.
 - ☀️ Contributing to **[open-source projects](https://github.com/pulls?q=author%3Avatsalsinghkv+is%3Apr+)** (Open Source is always fun)
 - 🏃 In absolute love with **ReactJs & NextJs** and building web applications with it
 - 📖 I’m currently learning **Unit Testing & Data Structures and Algorithms**
     
 <h2>Domain of interests</h2>
     
-- 💻 Full-stack Web Develppment
-- 📱 Mobile Development
-- 👽 Cyber Security
-- 🦾 Artificial Intelligence
+- Front End Web Development
+- Full Stack Web Development
   
 <h2>Languages & Tools</h2>
 <p align="center">
