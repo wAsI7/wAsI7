@@ -1,15 +1,3 @@
-<!--
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;This+is+Vatsal+🥲;Frontend+Developer+🥺;React+|+NextJs+|+TypeScript+|+Sass+🚀;Have+a+great+day+✨&width=800&color=2Ec4b6&center=true&size=30">
-  <a>
-</h1>
-
-<h3 align="center">A passionate self taught Web Developer, who wants to explore every tech stack 🇮🇳</h3>
--->
-
-[![My Portfolio](https://user-images.githubusercontent.com/68834718/258624703-5836ddb2-7000-455f-9772-bf375457d711.png)](https://vatsalsinghkv.vercel.app/)
-
 <h2>About Me</h2>
   
 - 👩🏻‍💻 With 5+ years of experience as a Senior Web developer, I create interactive websites using Elementor, JavaScript, and React.
