@@ -7,8 +7,8 @@
     
 <h2>Domain of interests</h2>
     
-- Front End Web Development
 - MERN Stack
+- Front End Web Development
 - Full Stack Web Development
   
 <h2>Languages & Tools</h2>
