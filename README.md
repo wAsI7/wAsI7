@@ -5,7 +5,7 @@
 - 🏃 In absolute love with **ReactJs & NextJs** and building web applications with it
 - 📖 I’m currently learning **Unit Testing & Data Structures and Algorithms**
     
-<h2>Domain of interests</h2>
+<h2>Domain of Interests</h2>
     
 - MERN Stack
 - Front End Web Development
