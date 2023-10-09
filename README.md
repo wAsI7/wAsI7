@@ -7,7 +7,7 @@
     
 <h2>Domain of Interests</h2>
     
-- MERN Stack
+- MERN Stack Web Development
 - Front End Web Development
 - Full Stack Web Development
   
