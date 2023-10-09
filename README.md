@@ -1,6 +1,6 @@
 <h2>About Me</h2>
   
-- 👩🏻‍💻 With 5+ years of experience as a Front End developer, I create interactive websites using Elementor, JavaScript, and React.
+- 👩🏻‍💻 With 5+ years of experience as a Front End Developer, I create interactive websites using Elementor, JavaScript, and React.
 - ☀️ Contributing to **[open-source projects]((https://github.com/wAsI7))** (Open Source is always fun)
 - 🏃 In absolute love with **ReactJs & NextJs** and building web applications with it
 - 📖 I’m currently learning **Unit Testing & Data Structures and Algorithms**
