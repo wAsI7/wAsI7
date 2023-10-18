@@ -7,13 +7,13 @@
     
 <h2>Domain of Interests</h2>
     
-- MERN Stack Web Development
-- Front End Web Development
-- Full Stack Web Development
+- MERN Stack Development
+- Front End Development
+- Full Stack Development
   
 <h2>Languages & Tools</h2>
 
-<h5>Programming </h5>
+<h5>Programming Languages</h5>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,mongodb" alt="programming languages" />
 </p>
