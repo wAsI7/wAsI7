@@ -13,7 +13,7 @@
   
 <h2>Languages & Tools</h2>
 
-<h5>Programming Languages</h5>
+<h5>Programming </h5>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,mongodb" alt="programming languages" />
 </p>
