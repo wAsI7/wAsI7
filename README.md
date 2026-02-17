@@ -1,29 +1,76 @@
-<h2>About Me</h2>
-  
-- 👩🏻‍💻 With 5+ years of experience as a Front End Developer, I create interactive websites using Elementor, JavaScript, ReactJs and NextJs.
-- ☀️ Contributing to **[open-source projects]((https://github.com/wAsI7))** (Open Source is always fun)
-- 🏃 In absolute love with **ReactJs & NextJs** and building web applications with it
-- 📖 I’m currently learning **Unit Testing & Data Structures and Algorithms**
-    
-<h2>Domain of Interests</h2>
-    
-- MERN Stack Development
-- Front End Development
-- Full Stack Development
-  
-<h2>Languages & Tools</h2>
+<h1 align="center">Syed Wasi Ali 👋</h1>
 
-<h5>Programming Languages</h5>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mysql,mongodb" alt="programming languages" />
-</p>
+<h3 align="center">
+AI-Augmented Frontend Architect  
+Next.js • Motion Systems • Automation Platforms
+</h3>
 
-<h5>Frameworks</h5>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,expressjs,jquery,redux,jest,sass,bootstrap,tailwind,materialui" alt="frameworks" />
-</p>
+---
 
-<h5>Tools</h5>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,firebase" alt="tools" />
-</p>
+## 🚀 About Me
+
+- 💻 8+ years building production-grade websites & web applications
+- ⚡ Delivered 200+ websites across startups, agencies & growing businesses
+- 🧠 Specializing in Next.js, React & high-performance frontend systems
+- 🤖 Leveraging AI-augmented workflows (Cursor, structured prompting, automation pipelines)
+- 🎯 Focused on shipping fast without compromising architecture
+- 📈 Obsessed with performance, scalability & clean UI systems
+
+---
+
+## 🧩 What I Build
+
+- Premium marketing websites (motion-driven, high-conversion)
+- Scalable Next.js applications (App Router architecture)
+- Hybrid systems (WordPress CMS + Next.js frontend)
+- Automation platforms & internal tools
+- AI-assisted development workflows
+- Performance-optimized frontend systems
+
+---
+
+## 🛠 Core Tech
+
+### Frontend
+- React
+- Next.js (App Router)
+- TypeScript
+- Tailwind CSS
+- GSAP / ScrollTrigger
+- Framer Motion
+
+### Backend & Infra
+- Node.js
+- Express
+- MongoDB
+- REST APIs
+- Vercel Deployment
+- Git / CI workflows
+
+### Tooling & Workflow
+- Cursor Pro (AI-assisted development)
+- VS Code
+- Figma-to-code implementation
+- Performance optimization (Core Web Vitals)
+- Component-driven architecture
+
+---
+
+## 📌 Currently Focused On
+
+- Advanced motion systems in Next.js
+- AI-augmented frontend architecture
+- Automation-driven digital experiences
+- Clean scalable project structuring
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: linkedin.com/in/syed-wasi-ali
+- Email: syedwasiali10@gmail.com
+- Twitter/X: @Syed_Wasi_Ali
+
+---
+
+⭐ Building intelligent digital experiences where design meets precision.
