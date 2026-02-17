@@ -1,121 +1,72 @@
-<h1 align="center">SYED WASI ALI</h1>
+<h1 align="center">
+  👋 Syed Wasi Ali
+</h1>
 
 <h3 align="center">
-AI-Native Web Architect • Systems Builder • Tech Lead
+AI-Augmented Web Architect • Frontend Engineer • Tech Lead
 </h3>
 
 <p align="center">
-Designing intelligent digital systems where performance, motion and automation converge.
+Building high-performance digital experiences & AI-powered automation systems.
 </p>
 
 ---
 
-## 🧠 Who I Am
+## 🚀 About Me
 
-I build digital systems — not just websites.
-
-With 8+ years in frontend engineering and product execution, I now operate at the intersection of:
-
-- ⚡ Performance-first web architecture  
-- 🎯 Motion-driven digital experiences  
-- 🤖 AI Agents & Automation Systems  
-- 🏗 Scalable frontend infrastructure  
-- 🧩 Execution frameworks for teams  
-
-Currently serving as **Manager @ BYW (Brand Your Work)**  
-Leading 35+ professionals across 6 departments while architecting AI-driven internal systems.
+- 🧠 8+ years building production-grade web applications  
+- 🤖 Designing AI Agents & intelligent automation systems  
+- 🏢 Manager @ BYW — leading 35+ team members across 6 departments  
+- ⚡ Specialized in performance-first, motion-driven web experiences  
+- 🌍 Delivered 200+ websites & scalable automation systems  
+- 🏗 Focused on scalable architecture & modern frontend ecosystems  
 
 ---
 
-## ⚙️ Core Architecture Stack
+## ⚙️ Core Technology
 
 ### Frontend Systems
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,sass,redux" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,sass,redux" />
 </p>
 
-- React
-- Next.js (App Router)
-- TypeScript
-- Tailwind CSS
-- GSAP / ScrollTrigger
-- Framer Motion
+React | Next.js (App Router) | TypeScript | Tailwind CSS | GSAP | Framer Motion
 
 ---
 
 ### Backend & Infrastructure
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,vercel,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,vercel,git" />
 </p>
 
-- Node.js / Express
-- MongoDB / MySQL
-- REST API Architecture
-- Vercel Deployment Pipelines
-- Git-based CI workflows
+Node.js | Express | MongoDB | MySQL | REST API Architecture | Vercel Deployment | CI/CD
 
 ---
 
-## 🤖 AI & Automation Focus
+## 🤖 AI & Automation
 
-- AI Agent Architecture
-- Automation-first execution systems
-- Prompt-driven development pipelines
-- AI-assisted coding (Cursor Pro workflow)
-- Intelligent workflow orchestration
-- Human-AI collaboration frameworks
-
-I don't just use AI.
-I design systems around it.
+OpenAI APIs | AI Agents | Workflow Automation | Prompt Engineering | AI-assisted Development (Cursor Pro)
 
 ---
 
-## 🏢 Leadership & Systems Thinking
+## 🏢 Leadership @ BYW
 
-At BYW, I:
-
-- Lead a 35+ cross-functional team
-- Manage 6 departments (Dev, Design, SEO, Content, Marketing, Sales, Ops)
-- Architect scalable internal workflows
-- Implement AI-powered operational automation
-- Optimize execution velocity across teams
-
-Engineering is code.
-Leadership is system design.
-
-I operate in both.
+- Lead 35+ cross-functional team members  
+- Manage 6 departments (Dev, Design, SEO, Content, Marketing, Sales)  
+- Architect scalable internal systems  
+- Implement AI-driven process automation  
 
 ---
 
-## 📊 Impact Snapshot
+## 🎯 Current Focus
 
-- 200+ production websites delivered
-- Multiple automation systems deployed
-- Performance-optimized architectures
-- Motion-driven premium digital builds
-- AI-native execution frameworks
-
----
-
-## 🚀 Current Direction
-
-Building:
-
-> AI-powered digital ecosystems that reduce friction and increase execution speed.
-
-The future is not “AI tools”.
-The future is AI-integrated systems.
-
----
-
-## 🌐 Connect
-
-- 📩 syedwasiali10@gmail.com
-- 💼 LinkedIn: /in/syed-wasi-ali
-- 🐦 X: @Syed_Wasi_Ali
+- AI-native product experiences  
+- Motion-driven premium web interfaces  
+- Scalable SaaS architecture  
+- Intelligent automation systems  
 
 ---
 
 <p align="center">
-Building intelligent digital infrastructure for the AI era.
+  ⚡ Engineering the future of AI-driven web experiences
 </p>
